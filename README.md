@@ -19,10 +19,15 @@ This repository implements **least-squares amplitude scaling ($\alpha$)** and wa
 ---
 
 ## How to Run
-You can open and execute the analysis directly in Google Colab using the badge below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hafiashafqat/GW-Scaled-Subtraction-Analysis/blob/main/Scaled_Subtraction_Analysis.ipynb)
+You can run this analysis interactively right in your browser via Google Colab:
 
----
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hafiashafqat/Scaled_Subtraction_Analysis/blob/main/Scaled_Subtraction_Analysis.ipynb)
+
+### Local Execution Steps:
+If you prefer running it locally in Jupyter Notebook:
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/hafiashafqat/Scaled_Subtraction_Analysis.git](https://github.com/hafiashafqat/Scaled_Subtraction_Analysis.git)
 ## Next Steps
 Transitioning towards **Joint Bayesian Parameter Estimation** for full multi-source probabilistic parameter recovery.
